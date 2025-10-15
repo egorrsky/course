@@ -7,6 +7,10 @@
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
+## About me
+
+Привет! Я Раковский Егор, студент курса Современный Фронтенд. Я сделал Форк, клонировал репозиторий и для этого использовал SourceTree. Сейчас в новой ветке я делаю изменения для readme, сделаю коммит и пуш
+
 ## Course Overview
 
 Frontend development course covering HTML, CSS, JavaScript, TypeScript, and Angular.
@@ -14,6 +18,7 @@ Frontend development course covering HTML, CSS, JavaScript, TypeScript, and Angu
 ## Course Structure
 
 ### [Module 1: Git](./lesson_1)
+
 
 ## License
 
